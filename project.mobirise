@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-11-07_1153",
+    "name": "Guia do sabonete",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -74,7 +74,7 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "favicon": "",
+    "favicon": false,
     "": "on",
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -82,7 +82,10 @@
     "siteUrl": "undefined",
     "uniqCompNum": 38,
     "versionPublish": "4.11.6",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "noImageResize": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
