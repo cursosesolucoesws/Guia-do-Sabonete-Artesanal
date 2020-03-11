@@ -1773,6 +1773,29 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-rSXtozxCaQ {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-rSXtozxCaQ .line {
+  background-color: #149dcc;
+  color: #149dcc;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rSXtozxCaQ .section-text {
+  padding: 2rem 0;
+}
+.cid-rSXtozxCaQ .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rSXtozxCaQ .inner-container {
+    width: 100% !important;
+  }
+}
 .cid-rQo8Bz10Xq {
   padding-top: 30px;
   padding-bottom: 15px;
